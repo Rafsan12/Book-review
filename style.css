@@ -125,6 +125,10 @@
   margin: 10px 0 20px;
 }
 
+.book-tag {
+  display: flex;
+}
+
 .card button {
   background-color: #23be0a;
   color: white;
