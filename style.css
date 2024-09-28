@@ -127,6 +127,19 @@
 
 .book-tag {
   display: flex;
+  gap: 1.5rem;
+}
+
+.book-tag :nth-child(1) {
+  padding: 0.5rem 1.5rem 0 1.5rem;
+  background-color: #faebd7;
+  border-radius: 15px;
+}
+
+.book-tag :nth-child(2) {
+  padding: 0.5rem 1.5rem 0 1.5rem;
+  background-color: #faebd7;
+  border-radius: 15px;
 }
 
 .card button {
