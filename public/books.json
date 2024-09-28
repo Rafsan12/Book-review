@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "The Quantum Universe",
+    "book_tag": ["Science", "Physics", "Quantum Mechanics"],
+    "author_name": "Brian Cox",
+    "pages": 256,
+    "publishing_year": 2011,
+    "publisher_name": "Allen Lane"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript: The Good Parts",
+    "book_tag": ["Programming", "JavaScript", "Web Development"],
+    "author_name": "Douglas Crockford",
+    "pages": 176,
+    "publishing_year": 2008,
+    "publisher_name": "O'Reilly Media"
+  },
+  {
+    "id": 3,
+    "name": "Sapiens: A Brief History of Humankind",
+    "book_tag": ["History", "Anthropology", "Non-Fiction"],
+    "author_name": "Yuval Noah Harari",
+    "pages": 498,
+    "publishing_year": 2014,
+    "publisher_name": "Harper"
+  },
+  {
+    "id": 4,
+    "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "book_tag": ["Programming", "Software Development", "Coding"],
+    "author_name": "Robert C. Martin",
+    "pages": 464,
+    "publishing_year": 2008,
+    "publisher_name": "Prentice Hall"
+  },
+  {
+    "id": 5,
+    "name": "The Lean Startup",
+    "book_tag": ["Business", "Entrepreneurship", "Startups"],
+    "author_name": "Eric Ries",
+    "pages": 336,
+    "publishing_year": 2011,
+    "publisher_name": "Crown Business"
+  },
+  {
+    "id": 6,
+    "name": "Thinking, Fast and Slow",
+    "book_tag": ["Psychology", "Behavioral Science", "Cognitive Science"],
+    "author_name": "Daniel Kahneman",
+    "pages": 499,
+    "publishing_year": 2011,
+    "publisher_name": "Farrar, Straus and Giroux"
+  }
+]
