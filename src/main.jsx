@@ -7,22 +7,21 @@ import "./index.css";
 import Root from "./Root/Root";
 
 const router = createBrowserRouter([
-	{
-		path: "/",
-		element: <Root />,
-		errorElement: <ErrorPage />,
-		children: [
-			{
-				path: "/",
-				element: <Home />,
-			},
-		],
-	},
+  {
+    path: "/",
+    element: <Root />,
+    errorElement: <ErrorPage />,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+    ],
+  },
 ]);
 
 createRoot(document.getElementById("root")).render(
-	<StrictMode>
-		<RouterProvider router={router} />
-	</StrictMode>
+  <StrictMode>
+    <RouterProvider router={router} />
+  </StrictMode>
 );
-

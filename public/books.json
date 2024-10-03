@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "The Quantum Universe",
+    "book_img": "https://i.ibb.co.com/7tW5dJ2/Banner-Img.png",
     "book_tag": ["Science", "Physics", "Quantum Mechanics"],
     "author_name": "Brian Cox",
     "pages": 256,
@@ -10,7 +11,9 @@
   },
   {
     "id": 2,
+
     "name": "JavaScript: The Good Parts",
+    "book_img": "https://i.ibb.co.com/7tW5dJ2/Banner-Img.png",
     "book_tag": ["Programming", "JavaScript", "Web Development"],
     "author_name": "Douglas Crockford",
     "pages": 176,
@@ -20,6 +23,7 @@
   {
     "id": 3,
     "name": "Sapiens: A Brief History of Humankind",
+    "book_img": "https://i.ibb.co.com/7tW5dJ2/Banner-Img.png",
     "book_tag": ["History", "Anthropology", "Non-Fiction"],
     "author_name": "Yuval Noah Harari",
     "pages": 498,
@@ -29,6 +33,7 @@
   {
     "id": 4,
     "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "book_img": "https://i.ibb.co.com/7tW5dJ2/Banner-Img.png",
     "book_tag": ["Programming", "Software Development", "Coding"],
     "author_name": "Robert C. Martin",
     "pages": 464,
@@ -39,6 +44,7 @@
     "id": 5,
     "name": "The Lean Startup",
     "book_tag": ["Business", "Entrepreneurship", "Startups"],
+    "book_img": "https://i.ibb.co.com/7tW5dJ2/Banner-Img.png",
     "author_name": "Eric Ries",
     "pages": 336,
     "publishing_year": 2011,
@@ -47,6 +53,7 @@
   {
     "id": 6,
     "name": "Thinking, Fast and Slow",
+    "book_img": "https://i.ibb.co.com/7tW5dJ2/Banner-Img.png",
     "book_tag": ["Psychology", "Behavioral Science", "Cognitive Science"],
     "author_name": "Daniel Kahneman",
     "pages": 499,
