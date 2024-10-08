@@ -1,6 +1,8 @@
+import { Link } from "react-router-dom";
+
 /* eslint-disable react/prop-types */
 export default function Book({ book }) {
-  const { name, book_img, book_tag, author_name } = book;
+  const { id, name, book_img, book_tag, author_name } = book;
   return (
     <>
       <div className="card card-compact bg-base-100  shadow-xl">
@@ -18,7 +20,9 @@ export default function Book({ book }) {
           <h2 className="card-title">{name}</h2>
           <p>By : {author_name}</p>
           <div className="card-actions ">
-            <button className="btn btn-primary">Buy Now</button>
+            <Link to={`/details/${id}`}>
+              <button className="btn btn-primary">View Details</button>
+            </Link>
           </div>
         </div>
       </div>

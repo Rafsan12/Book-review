@@ -7,18 +7,25 @@
     "author_name": "Brian Cox",
     "pages": 256,
     "publishing_year": 2011,
-    "publisher_name": "Allen Lane"
+    "publisher_name": "Allen Lane",
+    "review": {
+      "rating": 4.5,
+      "comments": "The Quantum Universe is a brilliant guide for anyone curious about quantum mechanics. Brian Cox and Jeff Forshaw explain complex topics in a clear and engaging manner, breaking down dense scientific theories into understandable chunks. The book strikes a perfect balance between rigor and accessibility, making it enjoyable for both casual readers and those with a scientific background. What I love most is how it links quantum theory to the world we experience every day. If you're interested in the nature of reality and how the universe works, this book is a must-read."
+    }
   },
   {
     "id": 2,
-
     "name": "JavaScript: The Good Parts",
     "book_img": "https://i.ibb.co.com/7tW5dJ2/Banner-Img.png",
     "book_tag": ["Programming", "JavaScript", "Web Development"],
     "author_name": "Douglas Crockford",
     "pages": 176,
     "publishing_year": 2008,
-    "publisher_name": "O'Reilly Media"
+    "publisher_name": "O'Reilly Media",
+    "review": {
+      "rating": 4.8,
+      "comments": "JavaScript: The Good Parts is an essential read for any JavaScript developer. Douglas Crockford takes a deep dive into the strengths of the language while providing insight into its quirks. It's a concise book but packed with valuable knowledge on how to write better, cleaner code. What makes this book special is that it distills JavaScript down to its core, removing the unnecessary and complicated parts. The book's practical approach makes it easy to apply these lessons to real-world development. A must-have for anyone serious about mastering JavaScript."
+    }
   },
   {
     "id": 3,
@@ -28,7 +35,11 @@
     "author_name": "Yuval Noah Harari",
     "pages": 498,
     "publishing_year": 2014,
-    "publisher_name": "Harper"
+    "publisher_name": "Harper",
+    "review": {
+      "rating": 4.7,
+      "comments": "Sapiens is a fascinating journey through the history of humanity. Yuval Noah Harari takes us from the emergence of Homo sapiens in the Stone Age to the modern day, exploring the pivotal moments that shaped our world. The book is rich with insights into human behavior, culture, and society. What makes Sapiens stand out is how it connects the past to present-day issues, offering a fresh perspective on where humanity is headed. The storytelling is engaging and accessible, making complex historical and anthropological topics easy to understand. Highly recommended for anyone interested in human history."
+    }
   },
   {
     "id": 4,
@@ -38,17 +49,25 @@
     "author_name": "Robert C. Martin",
     "pages": 464,
     "publishing_year": 2008,
-    "publisher_name": "Prentice Hall"
+    "publisher_name": "Prentice Hall",
+    "review": {
+      "rating": 4.9,
+      "comments": "Clean Code is more than just a book about programming; it's a philosophy for writing better code. Robert C. Martin, affectionately known as 'Uncle Bob,' lays down the principles of writing clean, maintainable, and efficient code. The book is filled with examples, best practices, and real-world applications that any developer can use to improve their code quality. It's a must-read for both beginners and experienced developers looking to refine their skills. By following the guidelines in Clean Code, you'll not only improve your technical abilities but also become a more thoughtful, disciplined developer."
+    }
   },
   {
     "id": 5,
     "name": "The Lean Startup",
-    "book_tag": ["Business", "Entrepreneurship", "Startups"],
     "book_img": "https://i.ibb.co.com/7tW5dJ2/Banner-Img.png",
+    "book_tag": ["Business", "Entrepreneurship", "Startups"],
     "author_name": "Eric Ries",
     "pages": 336,
     "publishing_year": 2011,
-    "publisher_name": "Crown Business"
+    "publisher_name": "Crown Business",
+    "review": {
+      "rating": 4.4,
+      "comments": "The Lean Startup is a groundbreaking book that has revolutionized how we think about building businesses. Eric Ries introduces the concept of 'validated learning,' which encourages startups to build, measure, and learn as quickly as possible. The book is filled with practical advice on how to test ideas, create a minimum viable product (MVP), and iterate based on customer feedback. It's a must-read for anyone looking to build a sustainable and successful business. What sets this book apart is its focus on experimentation and adaptability, making it relevant in today's fast-paced startup environment."
+    }
   },
   {
     "id": 6,
@@ -58,6 +77,10 @@
     "author_name": "Daniel Kahneman",
     "pages": 499,
     "publishing_year": 2011,
-    "publisher_name": "Farrar, Straus and Giroux"
+    "publisher_name": "Farrar, Straus and Giroux",
+    "review": {
+      "rating": 4.6,
+      "comments": "Thinking, Fast and Slow is a brilliant exploration of the two systems that drive human thought. Daniel Kahneman, a Nobel laureate, explains how our brain processes information through fast, intuitive thinking and slow, deliberate reasoning. The book is filled with fascinating experiments and insights into how we make decisions. It's a thought-provoking read that challenges our understanding of human behavior and cognition. Kahneman's research reveals the biases that affect our judgment and decision-making, making it a must-read for anyone interested in psychology, economics, or decision science."
+    }
   }
 ]
